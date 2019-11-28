@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=flipr
+%uri=https://github.com/sqitchers/sqitch-intro/
+
+auth_user 2019-11-27T15:07:01Z jun liu <junliu@jundeiMac.local> # add auth user
