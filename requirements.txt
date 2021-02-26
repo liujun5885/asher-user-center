@@ -1,4 +1,4 @@
 # service lib
 sanic==19.9.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 aiodns==2.0.0
